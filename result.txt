@@ -1,0 +1,76 @@
+Center:x:1  y:1
+
+Radius:2
+Circumference:12.5664
+Area:12.5664
+
+Center:x:5  y:6
+
+Radius:2
+Circumference:12.5664
+Area:12.5664
+
+Area:2
+Circumference:6.82843
+Edges 1:
+Point 1:x:1  y:2
+Point 2:x:3  y:2
+Length:2
+
+Edges 2:
+Point 1:x:1  y:2
+Point 2:x:3  y:4
+Length:2.82843
+
+Edges 3:
+Point 1:x:3  y:2
+Point 2:x:3  y:4
+Length:2
+
+Area:-1
+Circumference:5.41421
+Edges 1:
+Point 1:x:2  y:2
+Point 2:x:4  y:2
+Length:2
+
+Edges 2:
+Point 1:x:4  y:2
+Point 2:x:4  y:3
+Length:1
+
+Edges 3:
+Point 1:x:4  y:3
+Point 2:x:3  y:3
+Length:1
+
+Edges 4:
+Point 1:x:3  y:3
+Point 2:x:2  y:2
+Length:1.41421
+
+Area:-1
+Circumference:5.41421
+Edges 1:
+Point 1:x:2  y:2
+Point 2:x:4  y:2
+Length:2
+
+Edges 2:
+Point 1:x:4  y:2
+Point 2:x:4  y:3
+Length:1
+
+Edges 3:
+Point 1:x:4  y:3
+Point 2:x:3  y:3
+Length:1
+
+Edges 4:
+Point 1:x:3  y:3
+Point 2:x:2  y:2
+Length:1.41421
+
+
+C:\Users\dyl\Desktop\C++\Shape\Debug\Shape.exe (进程 4064)已退出，代码为 0。
+按任意键关闭此窗口. . .
