@@ -3,7 +3,7 @@
 #include<string>
 using std::cout;
 using std::endl;
-Polygon* operator|(const Shape*,const Polygon)
+Polygon* operator|(const Shape*,const Polygon)//返回了空对象
 {
 	Polygon* a=new Polygon;
 	return(a);
